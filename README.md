@@ -1,4 +1,3 @@
-# 3d-renderer
-Basic 3D renderer with Python.
+# simple-3d-renderer
+Simple 3D Renderer on Python.
 <br />
-![alt text](https://github.com/0xffruktoz/3d-renderer/blob/main/cube.png)
